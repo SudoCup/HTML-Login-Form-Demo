@@ -56,7 +56,7 @@ body {
   transition: .5s;
 }
 
-.txtb span::after{
+/* .txtb span::after{
   content: "";
   position: absolute;
   width: 0%;
@@ -64,6 +64,7 @@ body {
   background: tomato;
   transition: .5s;
 }
+*/
 
 .focus + span::before{
   top: -5px;
